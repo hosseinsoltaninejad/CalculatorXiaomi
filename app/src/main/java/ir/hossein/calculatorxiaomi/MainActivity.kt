@@ -10,7 +10,6 @@ import net.objecthunter.exp4j.ExpressionBuilder
 class MainActivity : AppCompatActivity() {
 
     lateinit var binding : ActivityMainBinding
-    private var operator : Char = '+'
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
